@@ -1,0 +1,18 @@
+* {
+    color: blue;
+    background-color: rgba(104, 87, 120, 0.584);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: inherit;
+    text-transform: lowercase;
+    font-style: oblique;
+
+}
+
+.h1-class {
+    font-size: normal;
+    color: rgb(25, 158, 116) !important;
+
+
+}
